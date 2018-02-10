@@ -54,6 +54,7 @@
 		29932E92202F9F500024ECE0 /* CoreML-Model-Comparer */ = {
 			isa = PBXGroup;
 			children = (
+				29932EA5202FA1AA0024ECE0 /* Models */,
 				29932E93202F9F500024ECE0 /* AppDelegate.swift */,
 				29932E95202F9F500024ECE0 /* ViewController.swift */,
 				29932E97202F9F500024ECE0 /* Main.storyboard */,
@@ -62,6 +63,13 @@
 				29932E9F202F9F500024ECE0 /* Info.plist */,
 			);
 			path = "CoreML-Model-Comparer";
+			sourceTree = "<group>";
+		};
+		29932EA5202FA1AA0024ECE0 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
