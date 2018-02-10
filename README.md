@@ -23,4 +23,4 @@ After bringing the models into the project, run to a device/simulator and select
 
 ## Screenshot
 
-![Dog Example](dog_example.jpg)
+![Dog Example](screenshot1.jpg)
